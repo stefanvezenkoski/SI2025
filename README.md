@@ -1,3 +1,1 @@
-# SI2025
-### Kreirano za potrebite na predmetot Softversko inzenerstvo
-Created by: Stefan Vezenkoski
+# Формирано за потребите на предметот Софтверско инженерство
