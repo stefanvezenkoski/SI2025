@@ -2,7 +2,7 @@
 
 a=10
 b=11
-c=13
+c=113
 
 if [ a -gt b ]
 then
