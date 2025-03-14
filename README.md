@@ -3,4 +3,4 @@
 [mk] Oва репо е формирано за вежбање <br/>
 [en] this repository is created as an exercise repo
 
-
+fixing a small issue
