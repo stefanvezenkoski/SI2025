@@ -1,7 +1,7 @@
 #!/bin/bash/
 
 a=10
-b=11
+b=12
 c=113
 
 if [ a -gt b ]
@@ -10,6 +10,3 @@ echo "a>b"
 else
 echo "a<b"
 fi
-
-
-
